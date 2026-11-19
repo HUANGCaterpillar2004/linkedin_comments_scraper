@@ -1,0 +1,21 @@
+- industry: manufacturing
+  batch: IND_MFG_IND
+  id_prefix: MFG
+  keywords:
+    - manufacturing hiring
+    - factory hiring
+    - production supervisor hiring
+    - industrial engineer hiring
+    - quality engineer manufacturing hiring
+    - plant operator hiring
+
+- industry: education
+  batch: IND_EDU_TRAIN
+  id_prefix: EDU
+  keywords:
+    - education hiring
+    - teacher hiring
+    - school hiring
+    - training coordinator hiring
+    - tutor hiring
+    - edtech hiring
