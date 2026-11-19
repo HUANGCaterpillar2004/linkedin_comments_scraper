@@ -1,0 +1,53 @@
+{
+  "collection_date": "2026-11-19",
+  "industry_name": "Education and training",
+  "industry_code": "IND_EDU_TRAIN",
+  "search_queries": [
+    "education hiring",
+    "teacher hiring",
+    "school hiring",
+    "training coordinator hiring",
+    "tutor hiring",
+    "edtech hiring"
+  ],
+  "actual_date_filter": {
+    "education hiring": "requested_past_month_not_confirmed",
+    "teacher hiring": "requested_past_month_not_confirmed",
+    "school hiring": "requested_past_month_not_confirmed"
+  },
+  "raw_candidates_examined": 120,
+  "unique_posts": 65,
+  "importable_posts": 65,
+  "candidate_limit": 120,
+  "target_posts": 80,
+  "comment_rows": 40,
+  "posts_with_comments": 25,
+  "posts_without_visible_comments": 1,
+  "missing_post_urls": 2,
+  "missing_exact_dates": 120,
+  "missing_like_counts": 12,
+  "missing_comment_counts": 33,
+  "duplicates_removed": 19,
+  "stopped_reason": "candidate_limit_reached",
+  "analysis_eligible_posts": 65,
+  "posts_comments_not_loaded": 4,
+  "posts_not_inspected_due_limit": 35,
+  "requirements_met": false,
+  "target_reached": false,
+  "collection_status": "incomplete",
+  "minimum_sample_met": true,
+  "posts_with_text_exact_date_and_counts": 0,
+  "retained_with_relative_date": 65,
+  "rejection_counts": {
+    "missing_comment_count": 33,
+    "missing_like_count": 12,
+    "duplicate": 19,
+    "missing_post_url": 2,
+    "missing_exact_date": 3
+  },
+  "human_review_required": true,
+  "review_notes": "Drafts require final industry, hiring-intent and personal-name review.",
+  "privacy_review": "Recognized contacts and linked names redacted; remaining names require human review.",
+  "formula_escape": "An apostrophe prefixes cells starting with =, +, - or @.",
+  "reminder": "Counts are visible engagement rather than hiring effectiveness."
+}

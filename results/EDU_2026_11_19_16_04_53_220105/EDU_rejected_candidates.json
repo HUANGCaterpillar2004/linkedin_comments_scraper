@@ -1,0 +1,456 @@
+[
+  {
+    "candidate": 3,
+    "keyword": "education hiring",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7528759017171517440/",
+    "reasons": [
+      "missing_comment_count"
+    ]
+  },
+  {
+    "candidate": 4,
+    "keyword": "education hiring",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7528794950935937025/",
+    "reasons": [
+      "missing_comment_count"
+    ]
+  },
+  {
+    "candidate": 5,
+    "keyword": "education hiring",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7528798083401498624/",
+    "reasons": [
+      "missing_like_count",
+      "missing_comment_count"
+    ]
+  },
+  {
+    "candidate": 6,
+    "keyword": "education hiring",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7528996565114400768/",
+    "reasons": [
+      "missing_comment_count"
+    ]
+  },
+  {
+    "candidate": 10,
+    "keyword": "education hiring",
+    "url": "https://www.linkedin.com/posts/prerna-dhiman-312590322_workfromhome-parttime-fulltime-ugcPost-7527987333095153664-r7HM/",
+    "reasons": [
+      "duplicate"
+    ]
+  },
+  {
+    "candidate": 11,
+    "keyword": "education hiring",
+    "url": "https://www.linkedin.com/posts/prerna-dhiman-312590322_workfromhome-parttime-fulltime-ugcPost-7527987333095153664-r7HM/",
+    "reasons": [
+      "duplicate"
+    ]
+  },
+  {
+    "candidate": 12,
+    "keyword": "education hiring",
+    "url": "https://www.linkedin.com/posts/anjali-pradhan-91167427b_workfromhome-parttime-fulltime-ugcPost-7524741028256358400-Ke2Y/",
+    "reasons": [
+      "duplicate"
+    ]
+  },
+  {
+    "candidate": 13,
+    "keyword": "education hiring",
+    "url": "https://www.linkedin.com/posts/anjali-pradhan-91167427b_workfromhome-parttime-fulltime-ugcPost-7524741028256358400-Ke2Y/",
+    "reasons": [
+      "missing_comment_count"
+    ]
+  },
+  {
+    "candidate": 14,
+    "keyword": "education hiring",
+    "url": "https://www.linkedin.com/posts/nowhiring-interventionspecialist-specialeducation-ugcPost-7528575454342172672-pFiV/",
+    "reasons": [
+      "missing_comment_count"
+    ]
+  },
+  {
+    "candidate": 17,
+    "keyword": "education hiring",
+    "url": "https://www.linkedin.com/posts/shiv-awasthi-569281415_workfromhome-parttime-fulltime-ugcPost-7529060033767305216-zT7l/",
+    "reasons": [
+      "duplicate"
+    ]
+  },
+  {
+    "candidate": 20,
+    "keyword": "education hiring",
+    "url": "",
+    "reasons": [
+      "missing_post_url",
+      "duplicate"
+    ]
+  },
+  {
+    "candidate": 21,
+    "keyword": "education hiring",
+    "url": "https://www.linkedin.com/posts/asmita-shinde-3376b7378_workfromhome-parttime-fulltime-ugcPost-7525873229144592384-94gr/",
+    "reasons": [
+      "duplicate"
+    ]
+  },
+  {
+    "candidate": 22,
+    "keyword": "education hiring",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7528847944633200640/",
+    "reasons": [
+      "missing_like_count",
+      "missing_comment_count"
+    ]
+  },
+  {
+    "candidate": 25,
+    "keyword": "education hiring",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7528835432718086144/",
+    "reasons": [
+      "missing_like_count",
+      "missing_comment_count"
+    ]
+  },
+  {
+    "candidate": 34,
+    "keyword": "education hiring",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7528809820716699648/",
+    "reasons": [
+      "missing_exact_date"
+    ]
+  },
+  {
+    "candidate": 37,
+    "keyword": "education hiring",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7528764061564637184/",
+    "reasons": [
+      "missing_like_count",
+      "missing_comment_count"
+    ]
+  },
+  {
+    "candidate": 38,
+    "keyword": "education hiring",
+    "url": "https://www.linkedin.com/posts/edcareers-educationjobs-schoolrecruitment-ugcPost-7526200367756390400-O9lY/",
+    "reasons": [
+      "missing_comment_count"
+    ]
+  },
+  {
+    "candidate": 39,
+    "keyword": "education hiring",
+    "url": "https://www.linkedin.com/posts/edcareers-educationjobs-schoolrecruitment-ugcPost-7526200367756390400-O9lY/",
+    "reasons": [
+      "missing_comment_count"
+    ]
+  },
+  {
+    "candidate": 40,
+    "keyword": "education hiring",
+    "url": "https://www.linkedin.com/posts/nowhiring-specialeducation-specialeducationteacher-ugcPost-7528923693696172032-jJ2C/",
+    "reasons": [
+      "missing_comment_count"
+    ]
+  },
+  {
+    "candidate": 41,
+    "keyword": "education hiring",
+    "url": "https://www.linkedin.com/posts/nowhiring-specialeducation-specialeducationteacher-ugcPost-7528923693696172032-jJ2C/",
+    "reasons": [
+      "missing_comment_count"
+    ]
+  },
+  {
+    "candidate": 43,
+    "keyword": "education hiring",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7528688419099799552/",
+    "reasons": [
+      "duplicate"
+    ]
+  },
+  {
+    "candidate": 45,
+    "keyword": "education hiring",
+    "url": "https://www.linkedin.com/posts/william-rehatta-96790553_wearehiring-experteducation-careeropportunity-ugcPost-7528346782192336896-r6GO/",
+    "reasons": [
+      "missing_exact_date"
+    ]
+  },
+  {
+    "candidate": 46,
+    "keyword": "education hiring",
+    "url": "https://www.linkedin.com/posts/william-rehatta-96790553_wearehiring-experteducation-careeropportunity-ugcPost-7528346782192336896-r6GO/",
+    "reasons": [
+      "missing_exact_date"
+    ]
+  },
+  {
+    "candidate": 47,
+    "keyword": "education hiring",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7528765319197257728/",
+    "reasons": [
+      "missing_comment_count"
+    ]
+  },
+  {
+    "candidate": 48,
+    "keyword": "education hiring",
+    "url": "https://www.linkedin.com/posts/amit-sharma-a53aa3159_hiring-teacher-education-professional-ugcPost-7529025720551952384-fWE8/",
+    "reasons": [
+      "missing_like_count",
+      "missing_comment_count"
+    ]
+  },
+  {
+    "candidate": 51,
+    "keyword": "teacher hiring",
+    "url": "https://www.linkedin.com/posts/lorie-rosal-2727a6265_were-hiring-math-science-teacher-trainers-ugcPost-7528792215628881920-kJwr/",
+    "reasons": [
+      "missing_comment_count"
+    ]
+  },
+  {
+    "candidate": 52,
+    "keyword": "teacher hiring",
+    "url": "https://www.linkedin.com/posts/lorie-rosal-2727a6265_were-hiring-math-science-teacher-trainers-ugcPost-7528792215628881920-kJwr/",
+    "reasons": [
+      "missing_comment_count"
+    ]
+  },
+  {
+    "candidate": 58,
+    "keyword": "teacher hiring",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7528794950935937025/",
+    "reasons": [
+      "missing_comment_count",
+      "duplicate"
+    ]
+  },
+  {
+    "candidate": 60,
+    "keyword": "teacher hiring",
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7525958649366831105/",
+    "reasons": [
+      "duplicate"
+    ]
+  },
+  {
+    "candidate": 61,
+    "keyword": "teacher hiring",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7529070580562759680/",
+    "reasons": [
+      "missing_like_count",
+      "missing_comment_count"
+    ]
+  },
+  {
+    "candidate": 63,
+    "keyword": "teacher hiring",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7528868027811971074/",
+    "reasons": [
+      "missing_comment_count"
+    ]
+  },
+  {
+    "candidate": 68,
+    "keyword": "teacher hiring",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7528796864003899392/",
+    "reasons": [
+      "missing_comment_count"
+    ]
+  },
+  {
+    "candidate": 69,
+    "keyword": "teacher hiring",
+    "url": "",
+    "reasons": [
+      "missing_post_url"
+    ]
+  },
+  {
+    "candidate": 73,
+    "keyword": "teacher hiring",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7525409367077224448/",
+    "reasons": [
+      "duplicate"
+    ]
+  },
+  {
+    "candidate": 74,
+    "keyword": "teacher hiring",
+    "url": "https://www.linkedin.com/posts/saudijobs-teachingjobs-riyadhjobs-ugcPost-7525735157568507904-rpqp/",
+    "reasons": [
+      "duplicate"
+    ]
+  },
+  {
+    "candidate": 76,
+    "keyword": "teacher hiring",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7528831559148158976/",
+    "reasons": [
+      "missing_like_count",
+      "missing_comment_count"
+    ]
+  },
+  {
+    "candidate": 78,
+    "keyword": "teacher hiring",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7529005152624693248/",
+    "reasons": [
+      "missing_like_count",
+      "missing_comment_count"
+    ]
+  },
+  {
+    "candidate": 85,
+    "keyword": "teacher hiring",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7527977607053733891/",
+    "reasons": [
+      "duplicate"
+    ]
+  },
+  {
+    "candidate": 86,
+    "keyword": "teacher hiring",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7528765202323013632/",
+    "reasons": [
+      "duplicate"
+    ]
+  },
+  {
+    "candidate": 87,
+    "keyword": "teacher hiring",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7529060831636910080/",
+    "reasons": [
+      "missing_comment_count"
+    ]
+  },
+  {
+    "candidate": 90,
+    "keyword": "teacher hiring",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7528763227451785216/",
+    "reasons": [
+      "missing_comment_count"
+    ]
+  },
+  {
+    "candidate": 92,
+    "keyword": "teacher hiring",
+    "url": "https://www.linkedin.com/posts/wearehiring-granadaschool-teacherjobs-ugcPost-7526887866925305858-FqfI/",
+    "reasons": [
+      "duplicate"
+    ]
+  },
+  {
+    "candidate": 95,
+    "keyword": "teacher hiring",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7527089987063017472/",
+    "reasons": [
+      "duplicate"
+    ]
+  },
+  {
+    "candidate": 97,
+    "keyword": "teacher hiring",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7528787282636541953/",
+    "reasons": [
+      "missing_like_count",
+      "missing_comment_count"
+    ]
+  },
+  {
+    "candidate": 99,
+    "keyword": "teacher hiring",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7529032243894177792/",
+    "reasons": [
+      "missing_comment_count"
+    ]
+  },
+  {
+    "candidate": 106,
+    "keyword": "school hiring",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7529071110995484672/",
+    "reasons": [
+      "missing_like_count",
+      "missing_comment_count"
+    ]
+  },
+  {
+    "candidate": 107,
+    "keyword": "school hiring",
+    "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7528053471372001280/",
+    "reasons": [
+      "missing_comment_count"
+    ]
+  },
+  {
+    "candidate": 108,
+    "keyword": "school hiring",
+    "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7528053471372001280/",
+    "reasons": [
+      "missing_comment_count"
+    ]
+  },
+  {
+    "candidate": 111,
+    "keyword": "school hiring",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7528799232842149888/",
+    "reasons": [
+      "missing_like_count",
+      "missing_comment_count"
+    ]
+  },
+  {
+    "candidate": 113,
+    "keyword": "school hiring",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7528761986059296768/",
+    "reasons": [
+      "missing_comment_count"
+    ]
+  },
+  {
+    "candidate": 114,
+    "keyword": "school hiring",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7529084378908598273/",
+    "reasons": [
+      "missing_like_count",
+      "missing_comment_count"
+    ]
+  },
+  {
+    "candidate": 115,
+    "keyword": "school hiring",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7528409171717726208/",
+    "reasons": [
+      "duplicate"
+    ]
+  },
+  {
+    "candidate": 116,
+    "keyword": "school hiring",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7528379081395007488/",
+    "reasons": [
+      "duplicate"
+    ]
+  },
+  {
+    "candidate": 117,
+    "keyword": "school hiring",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7528765202323013632/",
+    "reasons": [
+      "duplicate"
+    ]
+  },
+  {
+    "candidate": 119,
+    "keyword": "school hiring",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7528402037936623616/",
+    "reasons": [
+      "duplicate"
+    ]
+  }
+]
